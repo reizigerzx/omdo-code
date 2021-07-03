@@ -28,7 +28,7 @@ eggs/
 
 .eggs/
 
-venv/Lib/
+lib/
 
 lib64/
 
@@ -223,9 +223,3 @@ dmypy.json
 # Cython debug symbols
 
 cython_debug/
-
-.mp4
-.webm
-.obsidian
-obsidian/
-.css

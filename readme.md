@@ -1,22 +1,36 @@
-# Omdo Project Codebase
+# Omdo Project Base
 
-This is the main repository of our project. It shows publicly as I believe this piece of codes would be a lot beneficial if there are some random developer would show up and help to accomplish our missions. (Ngarep Njeer)
+This is the main repository of our project. It shows publicly as I believe this piece of codes would be a lot beneficial if there are some random developer would show up and help us to accomplish our missions. (wkwkwkwk)
 
 ## Knowledge Base
-- The main Knowledge Based [Here](https://github.com/)
+Progress of our team knowledge
+- [3D](Knowledge/3D)
+- [Computer Vision](Knowledge/Computer_Vision)
+- [Python](Knowledge/Python)
+- [Blender Python](Knowledge/Blender_Python)
 
 ## Daily Report
-- Our daily report for non-developer to read [Here](https://github.com/reizigerzx/omdo-notes/daily-report). Also contain weekly milestone.
+- Our daily report for non-developer to read [Here](Report/daily-report/Report.md).
 
-## Todo
-- Learn how to read captured data
-- Learn Blender Driver (Shapekeys + Rigify)
-- BPY & Blender Fundamental
-- Implement BPY and Blender Driver to Omdo
-- Learn how to translate captured data into 3D Model
-- Polishing Character Animation
+## Weekly Target Before September
+### Research and Implementation Phase
+- Week 1 : Learn how to read captured data, Learn BPY, Learn Driver (Shapekeys + Rigify)
+- Week 2 : Learn on how to stream both realtime data, and video data.
+- Week 3 : Implement captured data into BPY and Driver (Face implementation)
+- Week 4 : Implement captured data into BPY and Driver (2) (Face, Body, and Hand implementation)
 
+### Polishing and Finishing Phase
+- Week 5 : Head rotation, head scale (when face is near or far from camera).
+- Week 6 : Face expression Polishing
+- Week 7 : ... (Learn videography through blender and BPY)
+- Week 8 : ...
 
 ## Further Research
-- Captured body into 3D
+- IClone 3D
 - Spark AR
+
+## Productivity Tips
+- Parkinson Laws
+- Pomodoro
+- Delayed Gratification
+- Effective Engineering
